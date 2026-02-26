@@ -9,6 +9,7 @@ Here I upload coding problems that I solve daily to improve my logic building an
 ## 🧠 Basic Logic Programs
 
 - Armstrong Number
+- Second Max Number
 - Fibonacci Series
 - Palindrome Number
 - Prime Number
