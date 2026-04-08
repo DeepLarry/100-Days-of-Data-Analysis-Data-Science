@@ -1,57 +1,21 @@
-# Dynamic Matplotlib + Streamlit Visualizer
+Hey Boss/Sir/Buddy/Dost/Janeman
 
-An interactive visualization app built with **Streamlit** and **Matplotlib**.
-You can change chart type, signal frequency, noise, number of points, random seed, and plot color in real time.
+This Folder contains my learning and practice work using Matplotlib, a powerful Python library for data visualization.
+I explored different types of plots, customization techniques, and how to represent data visually.
 
-## Features
 
-- Dynamic chart controls from the sidebar
-- Multiple chart types: Line, Scatter, Bar, Histogram
-- Real-time summary metrics (mean, std dev, max, min)
-- Data preview table
-- CSV download for generated data
+<img width="626" height="449" alt="image" src="https://github.com/user-attachments/assets/3d0c3a79-19ed-4e02-9909-4220bc36d1e0" />
 
-## Project Structure
 
-- `plot001.py` - Basic matplotlib practice examples
-- `plot002.py` - Interactive Streamlit dashboard
-- `requirements.txt` - Python dependencies
 
-## Setup
+<img width="484" height="347" alt="image" src="https://github.com/user-attachments/assets/2e782d71-75f0-4710-863d-76efe40e4d1f" />
 
-1. Create and activate a virtual environment (recommended).
-2. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+<img width="374" height="280" alt="image" src="https://github.com/user-attachments/assets/80b0d3d7-5e28-405f-bcb1-2c9f5116630b" />
 
-## Run
 
-```bash
-streamlit run plot002.py
-```
+<img width="431" height="310" alt="image" src="https://github.com/user-attachments/assets/ae94fe16-fc61-4689-b17d-c6dca7cb78d5" />
 
-Then open the local URL shown in terminal (usually `http://localhost:8501`).
+<img width="389" height="359" alt="image" src="https://github.com/user-attachments/assets/c51efce5-2f51-41d9-b726-f99a9a6581a5" />
 
-## Share on GitHub
-
-1. Create a new repository on GitHub.
-2. Push this project:
-
-```bash
-git init
-git add .
-git commit -m "Add dynamic matplotlib streamlit visualizer"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
-```
-
-## Optional: Deploy Online
-
-You can deploy this app free using **Streamlit Community Cloud**:
-
-1. Push code to GitHub.
-2. Go to https://share.streamlit.io
-3. Connect your GitHub repo and deploy `plot002.py`.
+------------------DeepLarry---------------
