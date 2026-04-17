@@ -23,6 +23,7 @@ def customers_page():
     conn.close()
     return render_template("customers.html", customers=customers)
 
+
 @customers_bp.route("/add_customer", methods=['POST'])
 @login_required
 def add_customer():
