@@ -76,3 +76,5 @@ from scipy import stats
 z = stats.zscore(df['Age'])
 outliers = df[abs(z) > 3]
 
+-------------------------------------------------DeepLarry---------------------------------------------
+
