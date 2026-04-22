@@ -1,7 +1,7 @@
 Hey Boss/Sir/Buddy/Dost/Janeman
 
 This Folder contains my learning and practice work using Matplotlib, a powerful Python library for data visualization.
-I explored different types of plots, customization techniques, and how to represent data visually.
+I explored different types of plots, customization techniques, and how to represent data visually...
 
 
 <img width="626" height="449" alt="image" src="https://github.com/user-attachments/assets/3d0c3a79-19ed-4e02-9909-4220bc36d1e0" />
