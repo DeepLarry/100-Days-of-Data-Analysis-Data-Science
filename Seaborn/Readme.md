@@ -2,7 +2,7 @@
 
 
 This Folder contains my learning and practice work using Seaborn, a Python data visualization library.
-I have explored different types of plots, their usage, and how to visualize data effectively.
+I have explored different types of plots, their usage, and how to visualize data effectively....
 
 <img width="926" height="222" alt="image" src="https://github.com/user-attachments/assets/5cfdaad7-2020-41fa-95b7-a2a3f0de2354" />
 
