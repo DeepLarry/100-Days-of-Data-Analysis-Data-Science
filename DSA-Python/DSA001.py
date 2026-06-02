@@ -26,7 +26,7 @@ Traverse 2n times from right to left using i % n.
 Pop stack while top does not have strictly higher frequency.
 Stack top (if exists) is the answer for current index.
 Push current index.
-
+    
 ------>Time Complexity: O(n)
 ------>Space Complexity: O(n)
 
@@ -54,3 +54,4 @@ def next_greater_frequency_circular(nums):
 # demo
 nums = [3, 1, 1, 2, 3, 3, 2]
 print(next_greater_frequency_circular(nums))  # [-1, 3, 3, 3, -1, -1, 3]ṇ
+
