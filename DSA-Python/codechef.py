@@ -29,8 +29,6 @@ Yes if it was possible for Chef to buy an equal number of sacks of rice and suga
 No
 No otherwise.
 
-
-
 #COOK YOUR CODE HERE
 
 N = int(input())
@@ -50,4 +48,5 @@ def chef(n):
         return "NO"
     
 N=int(input())
+
 print(chef(N))
