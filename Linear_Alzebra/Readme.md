@@ -1,4 +1,3 @@
-
 # 🧮 Linear Algebra Practice (NumPy)
 Is folder mein main **Linear Algebra** ke saare core concepts ko Python mein implement kar raha hoon. 
 Main sirf theory nahi padh raha, balki har concept ka code **NumPy** use karke khud likh raha hoon taaki meri foundation solid rahe.
