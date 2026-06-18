@@ -1,6 +1,4 @@
 
-
-
 This Folder contains my learning and practice work using Seaborn, a Python data visualization library.
 I have explored different types of plots, their usage, and how to visualize data effectively.
 
