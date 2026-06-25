@@ -14,7 +14,6 @@ The prediction logic uses a weighted calculation:
 - **Study Hours:** Multiplied by 5
 - **Attendance %:** Multiplied by 0.3
 - **Assignments:** Multiplied by 2
-
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
 - **Library:** Streamlit
