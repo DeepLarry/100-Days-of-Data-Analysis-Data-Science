@@ -16,7 +16,7 @@ I have explored different types of plots, their usage, and how to visualize data
 <img width="372" height="299" alt="image" src="https://github.com/user-attachments/assets/4cc547f4-7f37-4ad6-adc3-a372c2720eba" />
 
 
-------------**-DeepLarry-**-------------
+------------**-DeepLarry-**------------
 
 
 
