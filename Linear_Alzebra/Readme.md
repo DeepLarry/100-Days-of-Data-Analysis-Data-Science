@@ -13,7 +13,6 @@ Ye folder mere daily practice ka collection hai. Isme aapko milega:
 * **Language:** Python
 * **Library:** NumPy (Main tool for Matrix/Vector math)
 * **IDE:** VS Code
-
 ## 🚀 How I Practice
 1. Pehle concept ki geometric intuition samajhta hoon.
 2. Phir use `numpy` functions ke saath code karta hoon.
