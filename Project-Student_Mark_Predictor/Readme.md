@@ -24,5 +24,4 @@ The prediction logic uses a weighted calculation:
 2. **Install Streamlit** (if you haven't already):
    ```bash
    pip install streamlit
-
    --------------------------DeepLarry--------------------------------
