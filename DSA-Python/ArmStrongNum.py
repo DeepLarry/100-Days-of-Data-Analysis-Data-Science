@@ -11,8 +11,6 @@ Example:
 
 
 
-
-
 n = int(input("Enter number: "))
 temp = n
 count = len(str(n))
