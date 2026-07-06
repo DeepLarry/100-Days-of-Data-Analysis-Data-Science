@@ -7,7 +7,6 @@ I explored different types of plots, customization techniques, and how to repres
 <img width="626" height="449" alt="image" src="https://github.com/user-attachments/assets/3d0c3a79-19ed-4e02-9909-4220bc36d1e0" />
 
 
-
 <img width="484" height="347" alt="image" src="https://github.com/user-attachments/assets/2e782d71-75f0-4710-863d-76efe40e4d1f" />
 
 
