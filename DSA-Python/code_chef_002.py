@@ -6,3 +6,4 @@ for _ in range(t):
     for s in range(n, m, -1):
         t = t + s
     print(t)
+    
