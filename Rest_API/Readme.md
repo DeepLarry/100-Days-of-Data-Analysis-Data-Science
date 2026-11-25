@@ -1,3 +1,2 @@
 It's folder hold Rets API concepts and How to create it.
-
 REST API is the most imp concept.
