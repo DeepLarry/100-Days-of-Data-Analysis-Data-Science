@@ -9,6 +9,7 @@ A simple, interactive web application built with **Python**, **Streamlit**, and 
 - **Modern UI:** Built with Streamlit for a clean, browser-based experience.
 <img width="413" height="239" alt="image" src="https://github.com/user-attachments/assets/d799845b-d66d-4611-b836-901c07c3f359" />
 
+
 ## 🧪 The Formula
 The prediction logic uses a weighted calculation:
 - **Study Hours:** Multiplied by 5
